@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amrikroy
-- 👀 I’m interested in Technical Infra Support Roles, Python Developer, Data Analytics
+- 👀 I’m interested in Technical Infra Support Roles, Python Developer, Data Analytics, SQL Developer
 - 🌱 I’m currently learning Data Science Masters
 - 📫 How to reach me https://www.linkedin.com/in/amrikroy/
 
